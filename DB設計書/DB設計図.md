@@ -66,7 +66,8 @@
 |項目名|型|PK|NN|FK|
 |-----|--|--|--|--|
 |recipi_datail_id|bigint(100)|o|||
-|recipi_number_id|bigint(100)|||o|
+|recipi_id|bigint(100)|o||o|
+|food_id|bigint(100)|o||o|
 |food_id|bigint(100)|||o|
 |datail_data|varchar(500)||||
 

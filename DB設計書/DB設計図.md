@@ -48,6 +48,7 @@
 |resipe_id|bigint(100)|○|||
 |resipe_name|varchar(500)||||
 |menu_id|bigint(100)|||o|
+|resipe_image|varchar(500)||||
 
 ## recipi_food
 |項目名|型|PK|NN|FK|

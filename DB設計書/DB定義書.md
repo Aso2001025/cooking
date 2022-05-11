@@ -36,7 +36,7 @@
 |調理手順|number|bigint(100)||||
 |調理内容|menu_data|varchar(500)||o||
 
-## 調理手順テーブル(procedure)
+## 調理法テーブル(procedure)
 |和名|属性名(カラム名)|型|PK|NN|FK|
 |---|-----|--|--|--|--|
 |調理法ID|procedure_id|bigint(100)|o|||

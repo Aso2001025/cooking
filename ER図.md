@@ -46,7 +46,7 @@ package "スワプレ" as swap_recipes {
         menu_data
     }
     
-     entity "調理法マスタ" as procedure <procedure> <<M,MASTER_MARK_COLOR> {
+     entity "調理法マスタ" as procedure <procedure> <<M,MASTER_MARK_COLOR>> {
         + procedure_id [PK]
         --
         procedure_data

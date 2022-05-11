@@ -11,7 +11,7 @@ skinparam class {
 !define MASTER_MARK_COLOR Orange 
 !define TRANSACTION_MARK_COLOR DeepSkyBlue
 
-package "スワプレ" as swap recipes {
+package "スワプレ" as swap_recipes {
     /'
       マスターテーブルを M、トランザクションを T などで表記
       １文字なら "主" とか "従" まど日本語でも記載可能

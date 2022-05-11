@@ -101,6 +101,6 @@ recipi_procedure    }o-l-|| procedure
 recipi              ||-r-|{     recipi_datail
 recipi              ||---|{     foods
 recipi              ||---|{     procedure
-post                ||---|{     recipi
+post                ||-l-|{     recipi
 @enduml
 ```

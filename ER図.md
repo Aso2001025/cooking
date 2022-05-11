@@ -98,7 +98,7 @@ foods               ||-l-o{     recipi_food
 recipi_food         }o-r-||     recipi
 recipi              ||-l-|{     recipi_procedure
 recipi_procedure    }o-l-|| procedure
-recipi              ||-r-|{     recipi_datail
+recipi              ||-d-|{     recipi_datail
 recipi              ||---|{     foods
 recipi              ||---|{     procedure
 post                ||-l-|{     recipi

@@ -1,6 +1,6 @@
 # DB定義書
 ## ER図
-[ER図はこちら](https://github.com/Aso2001017/smartphone-case/blob/main/6_DB%E5%AE%9A%E7%BE%A9%E6%9B%B8/ER%E5%9B%B3.md)
+[ER図はこちら](https://github.com/Aso2001025/cooking/blob/main/ER%E5%9B%B3.md)
 
 # DBテーブルカラム一覧
 

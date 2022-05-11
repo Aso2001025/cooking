@@ -96,9 +96,9 @@ menu                ||-r-o{     menu_datail
 menu                |o-d-o{     recipi
 foods               ||-l-o{     recipi_food
 recipi_food         }o-r-||     recipi
+recipi              ||---|{     recipi_datail
 recipi              ||-l-|{     recipi_procedure
 recipi_procedure    }o-l-|| procedure
-recipi              ||---|{     recipi_datail
 recipi              ||---|{     foods
 recipi              ||---|{     procedure
 post                ||-l-|{     recipi

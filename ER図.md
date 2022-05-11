@@ -91,16 +91,16 @@ package "スワプレ" as swap_recipes {
     
   }
   
-foods       }o-r-|     category
-menu       |-r-o{     menu_datail
-menu       |o-d-o{     recipi
-foods       |-l-o{     recipi_food
-recipi_food     }---|     recipi
-recipi   |-l-|{     recipi_procedure
+foods               }o-r-|     category
+menu                |-r-o{     menu_datail
+menu                |o-d-o{     recipi
+foods               |-l-o{     recipi_food
+recipi_food         }---|     recipi
+recipi              |-l-|{     recipi_procedure
 recipi_procedure    }o-l-|  procedure
-recipi         |---|{     recipi_datail
-recipi         |---|{     foods
-recipi         |---|{     procedure
-post         |---|{     recipi
+recipi              |---|{     recipi_datail
+recipi              |---|{     foods
+recipi              |---|{     procedure
+post                |---|{     recipi
 @enduml
 ```

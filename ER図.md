@@ -92,7 +92,7 @@ package "スワプレ" as swap_recipes {
   }
   
 foods               }o--||     category
-menu                ||-r-o{     menu_datail
+menu                ||-l-o{     menu_datail
 menu                |o-d-o{     recipi
 foods               ||-l-o{     recipi_food
 recipi_food         }o-r-||     recipi

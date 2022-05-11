@@ -56,18 +56,16 @@
 |レシピID|recipi_id|bigint(100)|o||o|
 |食材ID|food_id|bigint(100)|o||o|
 
-## レシピ手順(recipi_procedure)
+## レシピ調理法(recipi_procedure)
 |和名|属性名(カラム名)|型|PK|NN|FK|
 |---|-----|--|--|--|--|
-|調理手順ID|recipi_number_id|bigint(100)|o|||
-|レシピID|recipi_id|bigint(100)|||o|
-|調理法ID|procedure_id|bigint(100)|||o|
+|レシピID|recipi_id|bigint(100)|o||o|
+|調理法ID|procedure_id|bigint(100)|o||o|
 
 ## レシピ詳細(recipi_datail)
 |和名|属性名(カラム名)|型|PK|NN|FK|
 |---|-----|--|--|--|--|
 |レシピ詳細ID|recipi_datail_id|bigint(100)|o|||
-|調理手順ID|recipi_number_id|bigint(100)|o|||
 |レシピID|recipi_id|bigint(100)|||o|
 |食材ID|food_id|bigint(100)|||o|
 |調理法ID|procedure_id|bigint(100)|||o|

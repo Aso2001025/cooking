@@ -1,4 +1,5 @@
 ```uml
+@startuml
 skinparam class {
     '図の背景
     BackgroundColor Snow

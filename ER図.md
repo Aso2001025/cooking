@@ -95,10 +95,10 @@ foods               }o--||     category
 menu                ||-r-o{     menu_datail
 menu                |o-d-o{     recipi
 foods               ||-l-o{     recipi_food
-recipi_food         }o-l-||     recipi
+recipi_food         }o-r-||     recipi
 recipi              ||-l-|{     recipi_procedure
 recipi_procedure    }o-l-|| procedure
-recipi              ||---|{     recipi_datail
+recipi              ||-r-|{     recipi_datail
 recipi              ||---|{     foods
 recipi              ||---|{     procedure
 post                ||---|{     recipi
